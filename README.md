@@ -1,2 +1,4 @@
 # m3
-A simple and scalable Android bot emulation framework
+A simple and scalable Android bot emulation framework. A detailed explanation can be found <a href="https://maxkersten.nl/projects/m3-framework/">here</a>. This project was first published at <a href="https://www.blackhat.com/eu-21/arsenal/schedule/index.html#mobile-malware-mimicking-framework-24923">Black Hat Europe 2021's Arsenal</a>.
+
+Aside from the documentation in the code (both in-line and as <a href="https://github.com/ThisIsLibra/m3/releases/latest">JavaDoc</a>), one can learn more about extending the framework <a href="https://maxkersten.nl/projects/m3-framework/extending-m3/">here</a>. The two currently implemented families, Anubis and Cerberus, are explained in detail <a href="https://maxkersten.nl/projects/m3-framework/anubis-and-cerberus-explained/">here</a>. Questions can always be asked via Twitter <a href="https://twitter.com/Libranalysis">@Libranalysis</a> (both publicly or via a DM), or an <a href="https://github.com/ThisIsLibra/m3/issues">issue</a> can be opened in this repository.
